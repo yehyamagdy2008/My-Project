@@ -548,7 +548,7 @@ li {
 }
 #footer p {
   color: white;
-  font-size: 1.3rem;
+  font-size: 1.4rem;
 }
 /* end footer */
 /* Start keyframes */
@@ -594,6 +594,7 @@ li {
   }
 }
 /* End keyframes */
+/* start media */
 @media only screen and (min-width: 768px) {
   .cta {
     font-size: 2.3rem;
@@ -719,3 +720,4 @@ li {
     height: 300px;
   }
 }
+/* end media */
