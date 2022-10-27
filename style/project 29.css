@@ -223,7 +223,7 @@ li {
 /* End header */
 /* start hero section */
 #hero {
-  background-image: url("./img/hero-bg.jpeg");
+  background-image: url("../img/hero-bg.jpeg");
   background-size: cover;
   background-position: top center;
   position: relative;
